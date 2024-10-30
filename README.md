@@ -12,11 +12,11 @@ I'm Omar, a 16 years old Back-end Developer & Software Engineer from Egypt.
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/oar06g/teachora-classes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=teachora-classes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="teachora-classes"></a>
-    <a href="https://github.com/oar06g/hereafter-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=hereafter-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hereafter-project"></a>
-    <a href="https://github.com/oar06g/SonicScholar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=SonicScholar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hereafter-project"></a>
-    <a href="https://github.com/oar06g/Internet-MDF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=Internet-MDF&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="hereafter-project"></a>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/oar06g/teachora-classes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=teachora-classes&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/oar06g/hereafter-project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=hereafter-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/oar06g/SonicScholar"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=SonicScholar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/oar06g/Internet-MDF"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=SonicScholar&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/oar06g/Zeppein-Discord-Bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=oar06g&repo=Zeppein-Discord-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
   </p>
 </details>
 
