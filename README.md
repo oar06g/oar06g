@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./name.svg" alt="Omar Mohammed" />
-  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=30&pause=1000&color=6F0CF7&width=435&lines=Back-end+Developer+%26+Software+Engineer">
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=30&pause=1000&color=6F0CF7&width=435&lines=+Software+Engineer">
 </h1>
 
 
