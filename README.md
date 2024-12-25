@@ -50,7 +50,7 @@ I'm Omar, a 16 years old Back-end Developer & Software Engineer from Egypt.
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
       <a href="#"><img alt="PyQt5" src="https://shields.io/badge/PyQt5-10d110.svg?logo=qt&logoColor=white"></a>
-      <a href="#"><img alt="FastAPI" src="https://shields.io/badge/FastAPI-00888B.svg?logo=fasta[o&logoColor=white"></a>
+      <a href="#"><img alt="FastAPI" src="https://shields.io/badge/FastAPI-00888B.svg?logo=fastapi&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
