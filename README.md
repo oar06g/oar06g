@@ -7,7 +7,7 @@
 
 
 ## Hey! 👋
-I'm Omar, a 16 years old Back-end Developer & Software Engineer from Egypt.
+I'm Leo, a 16 years old Back-end Developer & Software Engineer from Egypt.
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
