@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./name.svg" alt="Omar Mohammed" />
+  <img src="./name.svg" alt="Leo Lan" />
   <img src="https://readme-typing-svg.demolab.com?font=Rubik+Wet+Paint&size=30&pause=1000&color=6F0CF7&width=435&lines=+Software+Engineer">
 </h1>
 
@@ -7,7 +7,7 @@
 
 
 ## Hey! 👋
-I'm Omar, a 16 years old Back-end Developer & Software Engineer from Egypt.
+I'm Leo, a 17 years old Back-end Developer & Software Engineer.
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
