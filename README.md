@@ -104,14 +104,3 @@ I'm Leo, a 17 years old Back-end Developer & Software Engineer.
 
 </details>
 
-<details open>
-  <summary><h2>Contact</h2></summary>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/oar06g/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/oar06g"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-    <!-- &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a> -->
-  </p>
-</details>
