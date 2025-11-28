@@ -54,7 +54,7 @@
 ### 
 
 <div align="center">
-  <h1>Good Luck</h1>
+  <h1>Good Luck :)</h1>
 </div>
 
 
