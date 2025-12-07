@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Leo Lan from Egypt<br><br>- 🔭 I’m working as Software Engineer & Backend Developer | AI Engineer (Agents & LLMs)<br>- 📚 I'm currently learning AI Agents<br>- ⚡ In my free time I learn something new.</p>
+<p align="left">I'm Leo Lan from Egypt<br><br>- 🔭 I’m working as Cloud-Native Software Engineer<br>- 📚 I'm currently learning AI Agents<br>- ⚡ In my free time I learn something new.</p>
 
 ###
 
