@@ -2,7 +2,7 @@
   <img height="140" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Omar Mohamed (leo lan)r</h1>
+<h1 align="center">Omar Mohamed (leo lan)</h1>
 
 <p align="center">
   <b>Cloud-Native Software Engineer</b> · Open-Source Contributor
@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/oar06g"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@oar06g"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/32073303"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://x.com/oar06g"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
 </p>
